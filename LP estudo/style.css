@@ -9,7 +9,7 @@
 
 body {
     font-size: 100%;
-    background: linear-gradient(68.15deg, #2f2325 16.62%, #8e5d52 85.61%);
+    background: linear-gradient(68.15deg, #3b115e 16.62%, #000 85.61%);
 }
 
 /*MENU*/
@@ -75,7 +75,7 @@ body {
 }
 
 .conteudo-principal-botao {
-    background-color: #8e5d52;
+    background-color: #8e6752;
     width: 180px;
     height: 60px;
     border: none;
@@ -86,7 +86,7 @@ body {
     font-size: 24px;
 }
 .conteudo-principal-botao:hover{
-    background-color: #2f2325 ;
+    background-color: #2f2823 ;
     width: 180px;
     height: 60px;
     border: none;
@@ -99,6 +99,8 @@ body {
 
 .conteudo-principal-imagem {
     height: 430px;
+    border-radius: 50%;
+    margin-top: 55px;
 }
 
 /*FIM - Conteudo principal*/
@@ -140,7 +142,7 @@ body {
 }
 
 .footer-img{
-    height: 48px;
+    height: 72px;
     display: block;
     margin: 0 auto;
 }
